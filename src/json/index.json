@@ -1,0 +1,54 @@
+{
+  "success": true,
+  "msg": [{
+    "text": "车辆监测",
+    "id": "2b2f4a39-895e-475d-be3a-8c84505cf72d",
+    "pid": null,
+    "url": null,
+    "iconCls": null,
+    "expanded": "true",
+    "orderNo": 1.0,
+    "isclick": "1",
+    "children": [{
+      "text": "系统概述",
+      "id": "7bdd7c3a-93e0-4ca1-85a7-2ec9630c39ba",
+      "pid": "2b2f4a39-895e-475d-be3a-8c84505cf72d",
+      "url": null,
+      "iconCls": null,
+      "expanded": "false",
+      "orderNo": 1.0,
+      "isclick": "1",
+      "children": [{
+        "text": "我的桌面",
+        "id": "d13ab87b-5457-4519-b362-eb0f15caaaaa",
+        "pid": "7bdd7c3a-93e0-4ca1-85a7-2ec9630c39ba",
+        "url": "MyDeskTop/Desktop",
+        "iconCls": null,
+        "expanded": "false",
+        "orderNo": 1.0,
+        "isclick": "1",
+        "leaf": true
+      }, {
+        "text": "功能导航",
+        "id": "a3804107-e37e-4ca9-a7d9-37b1c3e6e3e8",
+        "pid": "7bdd7c3a-93e0-4ca1-85a7-2ec9630c39ba",
+        "url": "MyDesktopNavigation/Navigation",
+        "iconCls": null,
+        "expanded": "false",
+        "orderNo": 2.0,
+        "isclick": "1",
+        "leaf": true
+      }, {
+        "text": "我的桌面beta",
+        "id": "a43388dc-f806-4792-a202-753a473f4b5f",
+        "pid": "7bdd7c3a-93e0-4ca1-85a7-2ec9630c39ba",
+        "url": "MyDeskTop/DesktopNew",
+        "iconCls": null,
+        "expanded": "false",
+        "orderNo": 3.0,
+        "isclick": "1",
+        "leaf": true
+      }]
+    }]
+  }]
+}
